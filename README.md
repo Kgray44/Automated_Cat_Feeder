@@ -38,7 +38,8 @@ If the WiFi connection is successful, go to 'catfeeder.local' in a browser, and 
 All webpages that you open on this webpage will be loaded next to the homepage dynamically.  The page will never reload, nor should you need to reload it for any reason.  All data and pages are delivered dynamically and updated automatically.
 
 ### Siri Integration (for iPhone/Mac)
-By adding a shortcut to your device, you can use "Hey Siri" to turn the feeder on*.  The shortcut is in the repository.  It utilizes the cookie authentication to be able to turn the device on with the '/feed' endpoint.  To call this shortcut, say "Hey Siri" and then the shortcut name.  I named my shortcut 'Feed my Cats', so I would say "Hey Siri, feed my cats".
+By adding a shortcut to your device, you can use "Hey Siri" to turn the feeder on*.  It utilizes the cookie authentication to be able to turn the device on with the '/feed' endpoint.  To call this shortcut, say "Hey Siri" and then the shortcut name.  I named my shortcut 'Feed my Cats', so I would say "Hey Siri, feed my cats".
+Visit this link to retrieve the shortcut: https://www.icloud.com/shortcuts/d3358b3d90564f18b419d0107f0d7751
 
 *Please note this only works when on the same WiFi network as the feeder itself.
 
